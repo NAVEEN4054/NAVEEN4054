@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @NAVEEN4054
 - 👀 I’m interested in Python programming and Circuit design
 - 🌱 I’m currently learning Circuit designing
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on hardware for cutting edge solutions
 - 📫 How to reach me : tikkanamnaveenk@gmail.com
 - 😄 Pronouns: 
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I am a chess player 
 
 <!---
 NAVEEN4054/NAVEEN4054 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
